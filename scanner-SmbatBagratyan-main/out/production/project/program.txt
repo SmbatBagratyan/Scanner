@@ -1,0 +1,10 @@
+var
+  a, b: integer;
+begin
+div
+  a:=23; 2a1 b:=42; """ 2a2
+
+end. 2a"
+sdfg
+
+

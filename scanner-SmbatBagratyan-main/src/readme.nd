@@ -1,0 +1,9 @@
+I tried to install make but it fails several times . So that's why I decided to write this file .
+commands
+  1. javac ReadFiles.java
+  2. javac Scanner.java
+  3. javac Main.java
+  4. java Main
+
+The output you can see in the result.txt file or also it will be appeared in the console . If you want to test the code
+you just need to change program.txt to your favorable context.

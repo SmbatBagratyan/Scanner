@@ -1,0 +1,18 @@
+var
+identifier: a
+,
+identifier: b
+:
+integer
+;
+begin
+identifier: a
+:=
+number: 23
+;
+identifier: b
+:=
+number: 42
+;
+end
+.
